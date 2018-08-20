@@ -1,5 +1,5 @@
 # IOS-Swift-VisionFaceDetection
-##*Level :* Intermediate
+## *Level :* Intermediate
 Learn the easy way to Create Face Detection in effect Project to detect face and details like eye , eyebrow , nose , lips and etc. with different cool UI in Xcode by Swift Program (Vision, VNDetectFaceLandmarksRequest ) You will be using Vision, VNDetectFaceLandmarksRequest, UIImagePickerControllerDelegate, UINavigationControllerDelegate, UIImagePickerController, delegateUIAlertController, UIImagePickerController , addAction , UIAlertAction, present, sourceType , UIDevice, popoverPresentationController, dismiss, performSegue, UIStoryboardSegue, prepare, segue , segue.identifier, segue.destination, VNImageRequestHandler, CGImagePropertyOrientation , perform, VNRequest, VNFaceObservation, VNFaceObservation, UIGraphicsBeginImageContextWithOptions, .draw, UIGraphicsGetCurrentContext, CGRect, boundingBox, .boundingBox.size.width, .boundingBox.size.height, .boundingBox.origin.x, .boundingBox.origin.y, saveGState, setStrokeColor, drawPath, .landmarks, faceContour, .pointCount, .normalizedPoints, .normalizedPoints[], outerLips, innerLips , leftEye, rightEye, leftPupil, rightPupil, leftEyebrow, rightEyebrow, nose, noseCrest, medianLine, UIGraphicsGetImageFromCurrentImageContext, UIGraphicsEndImageContext and understand How to handle performSegue . 
 
 

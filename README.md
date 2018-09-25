@@ -18,7 +18,7 @@ Sample app to detect face and details like eye , eyebrow , nose , lips and etc.
 
 You won't need to Download any extra libaray just ```import Vision``` inside the project 
 
-##### For additionnal info, please watch the video : [YouTube Tutorial](https://www.youtube.com/watch?v=zylvQh1cU5Q)
+##### For additionnal info, please watch the video : [YouTube Tutorial]()
 
 ## License
 
